@@ -419,7 +419,7 @@ phase运行机制：
 
 ```
  uvm_object_utils (my_driver)   // 对my_driver 进行注册
- uvm_component_utils (my_driver) //不同与上一种注册方式
+ uvm_component_utils (my_driver) //不同于上一种注册方式
 ```
 
 #### rand 机制
